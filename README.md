@@ -1,21 +1,64 @@
-# E-COMMERCE-WEBSITE
-This project is an Online Shoe Shopping Website built using HTML, CSS, and JavaScript. It allows users to browse various shoe products, view details with images, and simulate the shopping experience. The site features a clean layout, responsive design, and user-friendly interface, making it easy for visitors to explore and select products.
+# 🛒 E-Commerce Shoe Shopping Website
 
-Author 👟 Online Shoe Shopping Website
+This is an **Online Shoe Shopping Website** built using **HTML, CSS, and JavaScript**. It allows users to browse a range of shoe products, view images and descriptions, and experience a basic online shopping interface. The design is clean, responsive, and user-friendly.
 
-# 📌 Project Description This is a simple Online Shoe Shopping Website built using HTML, CSS, and JavaScript. It allows users to browse different shoe products with images and basic details. The website offers a responsive design and a smooth user experience.
+---
 
-# 🚀 Features
+## 👟 Author
 
-Home page with featured shoe collection Product gallery with images and details Responsive layout for mobile and desktop Interactive buttons and hover effects Simple and clean UI design 🛠️ Technologies Used
+**Bharat Pratap Singh**  
+[Live Demo 🌐](https://bharatpratap392.github.io/E-Commerce-website/)  
+📧 bharatpratapsingh54@gmail.com  
 
-# HTML – Structure of the website CSS – Styling and layout JavaScript – Basic interactivity Images – Downloaded from royalty-free image websites
+---
 
-# 📁 Folder Structure 
-/online-shoe-store/ 
-├── index.html # Main HTML page 
-├── style.css # CSS styles 
-├── script.js # JavaScript file 
-└── /images/ # Folder containing shoe images
+## 📌 Project Description
 
-AND IF YOU ARE FACING ANY JUST COMMENT IT, I WILL HELP YOU BUT IF YOU WANT TO LEARN & BUILD IT FROM STARTING TO COMPLETE HERE IS THE VIEDO WHERE I LEARN IT (https://www.youtube.com/watch?v=b3Gqq_k-g24&t=2s&pp=ygUUbGFtYWRldiBzaG9lIHdlYnNpdGU%3D)
+This project simulates an online shoe store. Users can:
+- View a homepage featuring popular collections
+- Browse a product gallery
+- Interact with buttons and hover effects
+- Navigate through a clean, responsive layout for both desktop and mobile
+
+---
+
+## 🚀 Features
+
+- ✅ Home page with featured shoe collection
+- ✅ Product cards with images and basic details
+- ✅ Responsive layout for mobile and desktop
+- ✅ Hover effects and interactive buttons
+- ✅ Simple, clean, and modern UI design
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Website structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Interactivity
+- **Images** – Downloaded from royalty-free image sites
+
+---
+
+## 📁 Folder Structure
+/E-Commerce Website/
+├── index.html # Main HTML page
+├── style.css # Styling file
+├── script.js # JavaScript file
+└── /images/ # Product images
+
+---
+
+## 🎓 Want to Build This Yourself?
+
+I followed this awesome YouTube tutorial:  
+▶️ [Lama Dev – Build a Shoe Website from Scratch](https://www.youtube.com/watch?v=b3Gqq_k-g24)
+
+If you face any issues or want to learn with me, feel free to comment or reach out. I'd love to help!
+
+---
+
+## 📃 License
+
+This project is for educational/demo purposes only.
